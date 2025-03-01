@@ -1,14 +1,14 @@
 [
     {
-        "title": "New Script",
-        "code": "print('Hello, world!')"
+        "title": "Script 1 Title",
+        "code": "print('Hello World!')"
     },
     {
-        "title": "Existing Script",
-        "code": "while true do print('Looping') end"
+        "title": "AutoFarm Script",
+        "code": "while true do\n  wait(1)\n  print('Auto farming...')\nend"
     },
     {
-        "title": "SUS",
-        "code": "while true do print('Looping') end"
+        "title": "Fly Script",
+        "code": "game:GetService('Players').LocalPlayer.Character:WaitForChild('HumanoidRootPart').CFrame = CFrame.new(0, 50, 0)"
     }
 ]
