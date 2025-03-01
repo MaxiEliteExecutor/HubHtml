@@ -1,14 +1,10 @@
 [
-    {
-        "title": "Example Script 1",
-        "code": "print(\"Hello, Roblox!\")"
-    },
-    {
-        "title": "Speed Boost",
-        "code": "game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100"
-    },
-        {
-        "title": "Speed1 Boost",
-        "code": "game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 100"
-    }
+  {
+    "title": "Script 1",
+    "code": "print('Hello World!')"
+  },
+  {
+    "title": "Script 2",
+    "code": "while true do print('Loop') end"
+  }
 ]
