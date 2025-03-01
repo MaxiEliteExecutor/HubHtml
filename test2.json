@@ -6,5 +6,9 @@
     {
         "title": "Existing Script",
         "code": "while true do print('Looping') end"
+    },
+    {
+        "title": "Existing Script",
+        "code": "while true do print('Looping') end"
     }
 ]
