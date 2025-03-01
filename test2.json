@@ -1,0 +1,10 @@
+[
+    {
+        "title": "New Script",
+        "code": "print('Hello, world!')"
+    },
+    {
+        "title": "Existing Script",
+        "code": "while true do print('Looping') end"
+    }
+]
